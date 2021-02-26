@@ -1,4 +1,4 @@
-# Medical-Robotics
+# Medical Robotics
 
 |   | Available | Last Update |
 | ------------- | ------------- | ------------ |
